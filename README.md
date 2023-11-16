@@ -1,2 +1,3 @@
-# homeassistant
-Home Assistant configurations
+# Home Assistant Configurations
+
+This repository contains various Home Assistant Configuration
